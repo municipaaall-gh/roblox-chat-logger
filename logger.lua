@@ -26,7 +26,7 @@ task.defer(function()
 			"started - "..os.date("%d-%m-%Y %H:%M:%S"),
 			"game - "..g,
 			"",
-      "",
+			"",
 		},"\n"))
 	end)
 
