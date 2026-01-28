@@ -15,6 +15,7 @@ game - game-name
 
 ## requirements
 an executor that supports
+- isfolder()
 - writefile()
 - appendfile()
 - makefolder()
