@@ -1,4 +1,4 @@
---req: writefile(), appendfile(), makefolder()
+--req: isfolder(), makefolder(), writefile(), appendfile()
 task.defer(function()
 	if getgenv().ChatLoggerRunning then return end
 	getgenv().ChatLoggerRunning=true
